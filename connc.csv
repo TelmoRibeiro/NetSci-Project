@@ -1,0 +1,104 @@
+Source,Target,Connection
+N1,N0,conversation
+N5,N11,sighted
+N5,N12,sighted
+N5,N13,sighted
+N6,N3,sighted
+N6,N4,sighted
+N6,N5,sighted
+N6,N7,sighted
+N6,N8,sighted
+N7,N3,sighted
+N7,N4,sighted
+N7,N5,sighted
+N7,N6,sighted
+N7,N7,sighted
+N7,N8,sighted
+N8,N3,sighted
+N8,N4,sighted
+N8,N5,sighted
+N8,N6,sighted
+N8,N7,sighted
+N9,N3,sighted
+N9,N4,sighted
+N9,N5,sighted
+N9,N6,sighted
+N9,N7,sighted
+N9,N8,sighted
+N13,N11,nephew
+N17,N16,tapped
+N19,,external partnership
+N24,,external partnership
+N28,N5,sighted
+N28,N11,sighted
+N28,N13,sighted
+N30,N30,father
+N33,,external partnership
+N34,N18,tapped
+N36,,aiding fugitive
+N56,,inmate wife
+N57,,inmate daughter
+N60,N59,brother
+N73,N74,mother
+N73,N22,wife
+N74,N22,son
+N76,,external partnership
+N78,N22,sighted
+N78,N18,sighted
+N79,,external partnership
+N81,N80,sighted
+N81,N82,sighted
+N82,N80,sighted
+N82,N81,sighted
+N83,N15,sighted
+N83,N79,sighted
+N84,,external partnership
+N85,,external partnership
+N86,N87,sighted
+N87,N85,sighted
+N88,N25,sighted
+N88,N26,sighted
+N91,N36,contact
+N92,N91,contact
+N92,N36,contact
+N93,,sighted
+N94,N89,sighted
+N94,N45,sighted
+N99,,external partnership
+N100,,external partnership
+N101,N14,tapped
+N103,N18,tapped
+N105,N37,contact
+N106,N107,tapped
+N107,N106,tapped
+N108,N18,tapped
+N110,,external partnership
+N111,N109,tapped
+N112,,external partnership
+N113,,external partnership
+N114,,external partnership
+N115,,external partnership
+N116,N113,accountant employee
+N117,N37,tapped
+N118,,external partnership
+N119,N15,phone number owner
+N121,N147,phone number owner
+N123,N47,common-law wife
+N124,,tapped
+N126,,sighted
+N126,,tapped
+N127,N37,tapped
+N129,N37,tapped
+N130,N37,tapped
+N131,N37,tapped
+N132,N18,tapped
+N133,N37,tapped
+N134,N37,tapped
+N136,N27,common-law wife
+N138,N27,contact
+N145,N13,mother
+N146,N18,tapped
+N147,N44,tapped
+N148,N149,wife
+N152,N15,tapped
+N153,N34,sold car
