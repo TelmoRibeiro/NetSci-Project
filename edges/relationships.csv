@@ -1,0 +1,10 @@
+source,target,relationship
+N11,N13,uncle/nephew
+N59,N60,brother/brother
+N73,N74,mother/son
+N22,N73,husband/wife
+N22,N74,father/son
+N47,N123,common-law husband/wife
+N27,N136,common-law husband/wife
+N13,N145,son/mother
+N148,N149,wife/husband
