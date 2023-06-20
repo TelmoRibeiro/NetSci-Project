@@ -12,7 +12,7 @@ N9,non-disclosured
 N10,enterpreneur
 N11,boss 'Cosa Nostra' in Messina
 N12,member 'Mistretta'
-N13,enterpreneur
+N13,enterpreneur/nephew of boss 'Cosa Nostra'
 N14,boss 'Mazzaroti'
 N15,non-disclosured
 N16,boss 'Brancaccio'
@@ -59,7 +59,7 @@ N56,inmate wife
 N57,inmate daughter
 N58,non-disclosured
 N59,enterpreneur
-N60,non-disclosured
+N60,brother of N59
 N61,executive 'Mistretta'
 N62,enterpreneur
 N63,enterpreneur
@@ -72,8 +72,8 @@ N69,enterpreneur
 N70,member 'Batanesi'
 N71,enterpreneur
 N72,construction worker
-N73,non-disclosured
-N74,non-disclosured
+N73,wife of pharmacist-member
+N74,son of pharmacist-member
 N75,member 'Mistretta'
 N76,enterpreneur/external partner
 N77,member 'Mistretta'
@@ -122,7 +122,7 @@ N119,phone owner lent to another
 N120,non-disclosured
 N121,phone owner lent to another
 N122,non-disclosured
-N123,non-disclosured
+N123,common-law wife of boss 'Batanesi'
 N124,non-disclosured
 N125,member 'Batanesi'
 N126,non-disclosured
@@ -135,7 +135,7 @@ N132,non-disclosured
 N133,city employee
 N134,non-disclosured
 N135,non-disclosured
-N136,non-disclosured
+N136,common-law wife of executive 'Batanesi'
 N137,enterpreneur
 N138,lawyer
 N139,enterpreneur
@@ -144,10 +144,10 @@ N141,non-disclosured
 N142,non-disclosured
 N143,member 'Mistretta'
 N144,member 'Mistretta'
-N145,non-disclosured
+N145,mother of N13
 N146,non-disclosured
 N147,non-disclosured
-N148,non-disclosured
+N148,wife of co-founder 'Batanesi'
 N149,co-founder 'Batanesi'
 N150,non-disclosured
 N151,member 'Batanesi'
